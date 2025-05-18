@@ -1,0 +1,13 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix UX && npm install --prefix UI && npm run build --prefix UI",
+    "start": "npm run start --prefix UX"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

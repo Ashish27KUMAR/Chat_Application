@@ -1,13 +1,12 @@
 {
-  "name": "chat-app",
+  "name": "live-projectcad",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm install --prefix UX && npm install --prefix UI && npm run build --prefix UI",
-    "start": "npm run start --prefix UX"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }

@@ -54,8 +54,20 @@ const seedUsers = [
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/8.jpg",
   },
+  {
+    email: "abcd@gmail.com",
+    fullName: "Kashish",
+    password: "123456",
+    profilePic: "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL2xhdXJhc3RlZmFubzI2Nl8zZF9yZW5kZXJpbmdfb2ZfYV9raW5kZXJnYXJ0ZW5fY2hpbGRfc3R1ZGVudF91bl85NTE4OGViNi1hZTZjLTQ3M2QtYjRlYy01YjhjMGZkMmFiN2UucG5n.png",
+  },
 
   // Male Users
+  {
+    email: "rishukumarchaurasiya44@gmail.com",
+    fullName: "Ashish Kumar",
+    password: "787878",
+    profilePic: "https://img.freepik.com/free-photo/3d-rendering-cartoon-boy_23-2150797600.jpg?semt=ais_hybrid&w=740",
+  },
   {
     email: "james.anderson@example.com",
     fullName: "James Anderson",

@@ -63,6 +63,7 @@ Open **two terminals** (or terminal tabs) and run the following commands in each
 cd UI
 npm run dev
 
-# Terminal 2: UX
-cd UX
+# Terminal 1: UI
+cd UI
+npm install
 npm run dev

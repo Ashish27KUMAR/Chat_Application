@@ -69,5 +69,5 @@ cd UI >
 npm run dev
 
 # Terminal 2: UX
-cd UX >
+cd UX \n
 npm run dev

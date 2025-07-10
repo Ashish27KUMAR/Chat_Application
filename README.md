@@ -37,8 +37,10 @@
 
 ## 📸 Screenshots
 
-> *(You can add screenshots here showing Sign Up, Chat UI, Media Sharing, and Theme Switching)*
+
 <img width="1914" height="930" alt="Screenshot 2025-06-26 184954" src="https://github.com/user-attachments/assets/cb392be9-d952-481a-94a3-3f28bf7110f1" />
+<img width="1919" height="928" alt="Screenshot 2025-06-26 185031" src="https://github.com/user-attachments/assets/014e804f-58b1-4fc4-a84e-c0698b6208f6" />
+<img width="1919" height="926" alt="Screenshot 2025-06-26 191126" src="https://github.com/user-attachments/assets/f4f5f737-e688-4e61-9298-55720207ab9a" />
 
 ---
 
@@ -63,7 +65,6 @@ Open **two terminals** (or terminal tabs) and run the following commands in each
 cd UI
 npm run dev
 
-# Terminal 1: UI
-cd UI
-npm install
+# Terminal 2: UX
+cd UX
 npm run dev

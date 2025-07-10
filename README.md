@@ -37,12 +37,25 @@
 
 ## 📸 Screenshots
 
+- **Sign In Page**
 <img width="1919" height="928" alt="Screenshot 2025-05-26 005803" src="https://github.com/user-attachments/assets/afdafa18-ee32-46f3-a59f-59cbc4d98868" />
+
+- **Sign Up Page**
 <img width="1919" height="930" alt="Screenshot 2025-05-26 005849" src="https://github.com/user-attachments/assets/152f6ad4-bef7-46fb-a866-d2af17e7f0c1" />
+
+- **Creating Account**
 <img width="1914" height="930" alt="Screenshot 2025-06-26 184954" src="https://github.com/user-attachments/assets/cb392be9-d952-481a-94a3-3f28bf7110f1" />
+
+- **Error: Email Already Exists**
 <img width="1919" height="928" alt="Screenshot 2025-06-26 185031" src="https://github.com/user-attachments/assets/014e804f-58b1-4fc4-a84e-c0698b6208f6" />
+
+- **Main Page**
 <img width="1908" height="925" alt="Screenshot 2025-06-26 185435" src="https://github.com/user-attachments/assets/7c7d856e-251a-48a7-9626-c06294235902" />
+
+- **2 Friends are Chatting**
 <img width="1919" height="928" alt="Screenshot 2025-06-26 190740" src="https://github.com/user-attachments/assets/ccb6ea42-8079-4d58-a270-3894daf1ee26" />
+
+- **Profile Section of both the users**
 <img width="1919" height="926" alt="Screenshot 2025-06-26 191126" src="https://github.com/user-attachments/assets/297feed6-b644-40c4-af59-3ba8c16ebd5e" />
 
 ---

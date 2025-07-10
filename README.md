@@ -65,7 +65,7 @@ This project is divided into two folders:
 Open **two terminals** (or terminal tabs) and run the following commands in each:
 
 # Terminal 1: UI
-cd UI >
+cd UI <br/>
 npm run dev
 
 # Terminal 2: UX

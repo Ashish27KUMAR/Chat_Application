@@ -2,7 +2,7 @@ import { THEMES } from "../constants";
 import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
 import KashishImg from "../assets/Kashish.jpg";
-import AshishImg from "../assets/Ashish.jpg";
+// import AshishImg from "../assets/Ashish.jpg";
 import HimaniImg from "../assets/Himani.jpg";
 
 const PREVIEW_MESSAGES = [
@@ -79,9 +79,9 @@ const SettingsPage = () => {
             <ul className="menu bg-base-200 text-base-content min-h-full w-80 sm:w-96 p-4 sm:p-6 gap-6 mt-12">
               {/* Team Members */}
               <div className="card bg-base-100 w-full shadow-sm">
-                <figure>
+                {/* <figure>
                   <img src={AshishImg} alt="Ashish" className="w-full h-auto" />
-                </figure>
+                </figure> */}
                 <div className="card-body p-4">
                   <h2 className="card-title">Ashish Kumar</h2>
                   <p className="text-sm">

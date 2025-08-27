@@ -83,11 +83,7 @@ const SettingsPage = () => {
                   <img src={AshishImg} alt="Ashish" className="w-full h-auto" />
                 </figure>
                 <div className="card-body p-4">
-                  <h2 className="card-title">
-                    Ashish Kumar (
-                    <span className="inline-block w-3 h-3 bg-green-500 rounded-full animate-blink"></span>
-                    Team Head )
-                  </h2>
+                  <h2 className="card-title">Ashish Kumar ( 🟢 Team Head )</h2>
 
                   <p className="text-sm">
                     I'm Ashish Kumar, a passionate graphic designer, UI/UX

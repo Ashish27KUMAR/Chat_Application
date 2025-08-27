@@ -2,7 +2,7 @@ import { THEMES } from "../constants";
 import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
 import KashishImg from "../assets/Kashish.jpg";
-import AshishKImg from "../assets/Ashish.jpg";
+import AshishKImg from "../assets/AshishK.jpg";
 import HimaniImg from "../assets/Himani.jpg";
 
 const PREVIEW_MESSAGES = [

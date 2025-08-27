@@ -83,7 +83,12 @@ const SettingsPage = () => {
                   <img src={AshishImg} alt="Ashish" className="w-full h-auto" />
                 </figure>
                 <div className="card-body p-4">
-                  <h2 className="card-title">Ashish Kumar</h2>
+                  <h2 className="card-title">
+                    Ashish Kumar (
+                    <span className="inline-block w-3 h-3 bg-green-500 rounded-full animate-blink"></span>
+                    Team Head )
+                  </h2>
+
                   <p className="text-sm">
                     I'm Ashish Kumar, a passionate graphic designer, UI/UX
                     designer, and developer, currently pursuing a B.Tech in
@@ -157,13 +162,13 @@ const SettingsPage = () => {
                   </div>
                 </div>
               </div>
-              {/* Repeat for other team members (Himani, Kashish) with similar structure */}
+              {/* Other team member Himani with similar structure */}
               <div className="card bg-base-100 w-full shadow-sm">
                 <figure>
                   <img src={HimaniImg} alt="Himani" className="w-full h-auto" />
                 </figure>
                 <div className="card-body p-4">
-                  <h2 className="card-title">Himani</h2>
+                  <h2 className="card-title">Himani ( Creative Ideator )</h2>
                   <p className="text-sm">
                     I'm Himani, a dedicated and creative individual with a
                     passion for design and technology. I enjoy crafting
@@ -236,6 +241,7 @@ const SettingsPage = () => {
                   </div>
                 </div>
               </div>
+              {/* Other team member Kashish with similar structure */}
               <div className="card bg-base-100 w-full shadow-sm">
                 <figure>
                   <img
@@ -245,7 +251,9 @@ const SettingsPage = () => {
                   />
                 </figure>
                 <div className="card-body p-4">
-                  <h2 className="card-title">Kashish Ahlawat</h2>
+                  <h2 className="card-title">
+                    Kashish Ahlawat ( Creative Advisor )
+                  </h2>
                   <p className="text-sm">
                     I'm Kashish, a passionate and driven individual with a
                     strong interest in technology and creativity. I'm always

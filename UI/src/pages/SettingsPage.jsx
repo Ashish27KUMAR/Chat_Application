@@ -1,6 +1,9 @@
 import { THEMES } from "../constants";
 import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
+import KashishImg from "../assets/Kashish.jpg";
+import AshishImg from "../assets/Ashish.jpg";
+import HimaniImg from "../assets/Himani.jpg";
 
 const PREVIEW_MESSAGES = [
   { id: 1, content: "Hey! How's it going?", isSent: false },
@@ -77,11 +80,7 @@ const SettingsPage = () => {
               {/* Team Members */}
               <div className="card bg-base-100 w-full shadow-sm">
                 <figure>
-                  <img
-                    src="../src/assets/Ashish.jpg"
-                    alt="Ashish"
-                    className="w-full h-auto"
-                  />
+                  <img src={AshishImg} alt="Ashish" className="w-full h-auto" />
                 </figure>
                 <div className="card-body p-4">
                   <h2 className="card-title">Ashish Kumar</h2>
@@ -161,11 +160,7 @@ const SettingsPage = () => {
               {/* Repeat for other team members (Himani, Kashish) with similar structure */}
               <div className="card bg-base-100 w-full shadow-sm">
                 <figure>
-                  <img
-                    src="../src/assets/Himani.jpg"
-                    alt="Himani"
-                    className="w-full h-auto"
-                  />
+                  <img src={HimaniImg} alt="Himani" className="w-full h-auto" />
                 </figure>
                 <div className="card-body p-4">
                   <h2 className="card-title">Himani</h2>
@@ -244,7 +239,7 @@ const SettingsPage = () => {
               <div className="card bg-base-100 w-full shadow-sm">
                 <figure>
                   <img
-                    src="../src/assets/Kashish.jpg"
+                    src={KashishImg}
                     alt="Kashish"
                     className="w-full h-auto"
                   />
@@ -332,4 +327,3 @@ const SettingsPage = () => {
 };
 
 export default SettingsPage;
-
